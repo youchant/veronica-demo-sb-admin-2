@@ -1,0 +1,17 @@
+{
+	"name": "ver-SBAdmin2",
+    "dependencies": {
+        "veronica": "latest",
+		"font-awesome": "~4.0.x",
+        "bootstrap": "~3.2.x",
+		"respond": "latest",
+        "datatables": "~1.10.x",
+		"datatables-plugins": "latest",
+        "metisMenu": "latest",
+        "morrisjs": "latest"
+    },
+    "devDependencies": {
+        "requirejs-text":"latest",
+        "require-css":"latest"
+    }
+}

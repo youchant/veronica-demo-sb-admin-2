@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-veronica": "^0.1.0"
+  },
+  "dependencies": {
+  }
+}
