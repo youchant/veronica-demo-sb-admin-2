@@ -28,7 +28,7 @@
                 'metisMenu': framePath + '/metisMenu/dist/metisMenu',
                 'morris': framePath + '/morrisjs/morris',
                 'raphael': framePath + '/raphael/raphael',
-                'datatables': framePath + '/DataTables/media/js/jquery.dataTables',
+                'datatables': framePath + '/datatables/media/js/jquery.dataTables',
                 'datatables-bootstrap': framePath + '/datatables-plugins/integration/bootstrap/3/dataTables.bootstrap'
             },
             shim: {
